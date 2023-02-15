@@ -1,0 +1,9 @@
+# Site settings
+title: Jesse Hill CV
+author:
+  name: Jesse Hill
+  email: fullstackjh@gmail.com
+description: "Jesse Hill CV site"
+
+# Build settings
+remote_theme: jekyll/minima
